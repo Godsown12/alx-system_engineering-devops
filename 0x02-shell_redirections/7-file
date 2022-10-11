@@ -1,1 +1,5 @@
 #!/bin/bash
+<<<<<<< HEAD
+=======
+printf "Best School\n" > "\\\'"Best School"\'\\$\?\\\\\*:)"
+>>>>>>> 4d226a4044d33d9ab8146d2cff3dcaeba3e6903d
